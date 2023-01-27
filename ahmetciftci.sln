@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5E159ECE-1833-4622-B9BF-F4E7DEABFF17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portfolio.Mvc", "Portfolio.Mvc\Portfolio.Mvc.csproj", "{DB63181C-A626-498C-841E-571B2F2F312D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB63181C-A626-498C-841E-571B2F2F312D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB63181C-A626-498C-841E-571B2F2F312D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB63181C-A626-498C-841E-571B2F2F312D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB63181C-A626-498C-841E-571B2F2F312D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DB63181C-A626-498C-841E-571B2F2F312D} = {5E159ECE-1833-4622-B9BF-F4E7DEABFF17}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAE46902-44DE-4A78-880B-AAD2206804A4}
+	EndGlobalSection
+EndGlobal
